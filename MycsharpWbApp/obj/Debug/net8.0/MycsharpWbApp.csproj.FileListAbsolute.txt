@@ -27,3 +27,4 @@ C:\Users\Hale\source\repos\MycsharpWbApp\MycsharpWbApp\obj\Debug\net8.0\refint\M
 C:\Users\Hale\source\repos\MycsharpWbApp\MycsharpWbApp\obj\Debug\net8.0\MycsharpWbApp.pdb
 C:\Users\Hale\source\repos\MycsharpWbApp\MycsharpWbApp\obj\Debug\net8.0\MycsharpWbApp.genruntimeconfig.cache
 C:\Users\Hale\source\repos\MycsharpWbApp\MycsharpWbApp\obj\Debug\net8.0\ref\MycsharpWbApp.dll
+C:\Users\Hale\source\repos\MycsharpWbApp\MycsharpWbApp\obj\Debug\net8.0\MycsharpWbApp.sourcelink.json

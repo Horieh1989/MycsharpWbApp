@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MycsharpWbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c7509f4a3ff6e1fb5a67bbe22bc0e145f08b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("MycsharpWbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MycsharpWbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
