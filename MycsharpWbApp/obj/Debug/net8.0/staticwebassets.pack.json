@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hale\\source\\repos\\MycsharpWbApp\\MycsharpWbApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MycsharpWbApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MycsharpWbApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hale\\source\\repos\\MycsharpWbApp\\MycsharpWbApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Hale\\source\\repos\\MycsharpWbApp\\MycsharpWbApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hale\\source\\repos\\MycsharpWbApp\\MycsharpWbApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hale\\source\\repos\\MycsharpWbApp\\MycsharpWbApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MycsharpWbApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MycsharpWbApp.props",
+      "PackagePath": "build\\MycsharpWbApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MycsharpWbApp.props",
+      "PackagePath": "buildMultiTargeting\\MycsharpWbApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MycsharpWbApp.props",
+      "PackagePath": "buildTransitive\\MycsharpWbApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
